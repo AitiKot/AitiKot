@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me через youtube или никак
 - 😄 Pronouns: kot
-- ⚡ Fun fact: я легко понимаю как работают вирусы и быстро учю python
+- ⚡ Fun fact: я легко понимаю как работают вирусы и быстро учу python
 
 <!---
 AitiKot/AitiKot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
